@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-555
-=======
-6666
->>>>>>> branch 'master' of https://github.com/hpc80991011/hpc.git
+3333
 
