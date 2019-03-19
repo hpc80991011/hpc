@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-4444123123
-=======
-4444
->>>>>>> branch 'master' of https://github.com/hpc80991011/hpc.git
+2222
 
 
 
